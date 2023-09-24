@@ -1,0 +1,19 @@
+Title : Flatmates BIll sharing
+
+Description : An app that gets as input the amount of a bill for a particular period 
+and the days that each of the flatmates stayed in the house for that period and how 
+much many each flatmate has to pay. Also generates a PDF report stating the name of 
+the flatmates, the period and how much each one has to pay.
+
+Objects in the Program
+1. Bill 
+    1.1 Amount an attribute of a Bill
+    1.2 period 
+2. flatmate 
+    2.1 Days in house
+    2.2 Name 
+    2.3 pays(bill)
+3. PDF report  
+    3.1 filename
+    3.3 how much each flatmate pay
+    3.4 generate(flatmate1,flatmate2,bill,period)
